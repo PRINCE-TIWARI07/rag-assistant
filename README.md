@@ -194,9 +194,7 @@ The API accepts questions about information contained in the PDF.
 }
 ```
 
-### Postman Screenshot
 
-![RAG Document Assistant API Demo](screenshots/rag-potato-price.png)
 
 *Example of a successful API request and response.*
 
